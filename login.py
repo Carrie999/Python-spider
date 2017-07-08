@@ -5,13 +5,12 @@ import cookielib
 import re
 import bs4
 URL_BAIDU_INDEX = u'http://www.baidu.com/'
-#https://passport.baidu.com/v2/api/?getapi&class=login&tpl=mn&tangram=true 也可以用这个
 URL_BAIDU_TOKEN = 'https://passport.baidu.com/v2/api/?getapi&tpl=pp&apiver=v3&class=login'
 URL_BAIDU_LOGIN = 'https://passport.baidu.com/v2/api/?login'
 #设置用户名、密码
 username = '15131211873'
 password = '*******'
-#设置cookie，这里cookiejar可自动管理，无需手动指定
+#设置cookie
 cj = cookielib.CookieJar()
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
 urllib2.install_opener(opener)
@@ -41,8 +40,8 @@ loginRequest.add_header('Accept-Language','zh-CN,zh;q=0.8')
 loginRequest.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36')
 loginRequest.add_header('Content-Type','application/x-www-form-urlencoded')
 sendPost = urllib2.urlopen(loginRequest)
-#查看贴吧个人主页 ，测试是否登陆成功，由于cookie自动管理，这里处理起来方便很多
-#http://tieba.baidu.com/home/main?un=XXXX&fr=index 这个是贴吧个人主页，各项信息都可以在此找到链接
+#查看贴吧个人主页 ，测试是否登陆成功
+#http://tieba.baidu.com/home/main?un=XXXX&fr=index 贴吧个人主页
 teibaUrl = 'http://tieba.baidu.com/f/like/mylike?v=1387441831248'
 content = urllib2.urlopen(teibaUrl).read()
 content = content.decode('gbk').encode('utf8')
