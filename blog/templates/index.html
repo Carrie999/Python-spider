@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block left_content %}
+    <div class="banner">
+      <div id="slide-holder">
+        <div id="slide-runner"> <a href="/" target="_blank"><img id="slide-img-1" src={%  static 'images/a1.jpg'%}  alt="" /></a> <a href="/" target="_blank"><img id="slide-img-2" src='images/a2.jpg'  alt="" /></a> <a href="/" target="_blank"><img id="slide-img-3" src='images/a3.jpg' alt="" /></a> <a href="/" target="_blank"><img id="slide-img-4" src='images/a4.jpg' alt="" /></a>
+          <div id="slide-controls">
+            <p id="slide-client" class="text"><strong></strong><span></span></p>
+            <p id="slide-desc" class="text"></p>
+            <p id="slide-nav"></p>
+          </div>
+        </div>
+      </div>
+      <script>
+    if(!window.slider) {
+    var slider={};
+  }
+
+  slider.data= [
+    {
+        "id":"slide-img-1", // 与slide-runner中的img标签id对应
+        "client":"标题1",
+        "desc":"这里修改描述 这里修改描述 这里修改描述" //这里修改描述
+    },
+    {
+        "id":"slide-img-2",
+        "client":"标题2",
+        "desc":"add your description here"
+    },
+    {
+        "id":"slide-img-3",
+        "client":"标题3",
+        "desc":"add your description here"
+    },
+    {
+        "id":"slide-img-4",
+        "client":"标题4",
+        "desc":"add your description here"
+    }
+  ];
+
+    </script>
+    </div>
+    <div class="topnews">
+      <h2>最新文章</h2>
+        {% for article in article_list %}
+    <div class="blogs">
+        <ul>
+          <h3><a href="/">{{ article.title }}</a></h3>
+          <p>{{ article.desc }}</p>
+          <p class="autor"><span class="lm f_l">{% for tag in article.tag.all %}<a href="/">{{ tag.name }}</a></span>{% endfor %}<span class="dtime f_l">{{ article.date_publish | date:'Y-m-d' }}</span><span class="viewnum f_r">浏览（<a href="/">{{ article.click_count }}</a>）</span><span class="pingl f_r">评论（<a href="/">{{ article.comment_set.all.count }}</a>）</span></p>
+        </ul>
+    </div>
+       {% endfor %}
+
+
+
+
+<div id="pagination">
+    <ul id="pagination-flickr">
+    {% if article_list.has_previous %}
+    <li class="previous"><a href="?page={{ article_list.previous_page_number }}{% if request.GET.year %}&year={{ request.GET.year }}{% endif %}{% if request.GET.month %}&month={{ request.GET.month }}{% endif %}{% if request.GET.cid %}&cid={{ request.GET.cid }}{% endif %}">&laquo;上一页</a></li>
+    {% else %}
+    <li class="previous-off">&laquo;上一页</li>
+    {% endif %}
+     <li class="active">{{ article_list.number }}/{{ article_list.paginator.num_pages }}</li>
+    {% if article_list.has_next %}
+      <li class="next"><a href="?page={{ article_list.next_page_number }}{% if request.GET.year %}&year={{ request.GET.year }}{% endif %}{% if request.GET.month %}&month={{ request.GET.month }}{% endif %}{% if request.GET.cid %}&cid={{ request.GET.cid }}{% endif %}">下一页 &raquo;</a></li>
+    {% else %}
+      <li class="next-off">下一页 &raquo;</li>
+    {% endif %}
+   </ul>
+</div>
+
+{% endblock %}
+
+
+
+
+
+

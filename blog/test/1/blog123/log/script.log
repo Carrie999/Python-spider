@@ -1,0 +1,1228 @@
+2017-05-18 20:48:16,577 [Thread-9:8140] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-18 20:48:16,583 [Thread-10:8144] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-18 20:48:16,586 [Thread-11:7892] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-18 21:57:42,892 [Thread-9:7984] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-18 21:57:42,895 [Thread-10:8460] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-18 21:57:42,898 [Thread-11:8208] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-18 21:57:50,880 [Thread-16:2452] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-18 21:57:50,883 [Thread-15:8572] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-18 21:57:50,885 [Thread-17:8508] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-18 21:58:11,574 [Thread-25:9056] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-18 21:58:11,594 [Thread-26:6456] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-18 21:58:11,598 [Thread-27:8224] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-18 21:59:20,405 [Thread-35:8644] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-18 21:59:20,409 [Thread-36:8580] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-18 21:59:20,424 [Thread-37:7860] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-20 10:05:29,084 [Thread-4:1908] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-20 10:05:32,420 [Thread-5:3648] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-20 10:05:42,407 [Thread-6:3648] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-20 10:05:42,942 [Thread-7:4272] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-20 10:05:54,720 [Thread-13:7224] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-20 10:05:54,725 [Thread-14:7228] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-20 10:05:54,726 [Thread-15:7232] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-21 19:56:40,237 [Thread-2:1568] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:40,253 [Thread-3:4384] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:42,860 [Thread-4:1316] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,289 [Thread-5:6968] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,300 [Thread-6:4100] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,309 [Thread-7:6244] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,321 [Thread-8:6696] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,331 [Thread-9:6992] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,831 [Thread-10:6508] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,849 [Thread-11:6800] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,861 [Thread-12:5372] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,873 [Thread-13:6932] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:43,885 [Thread-14:48] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:48,894 [Thread-23:5824] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-21 19:56:49,004 [Thread-25:4804] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-21 19:56:49,019 [Thread-26:3336] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-21 19:56:58,385 [Thread-40:5100] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:59,864 [Thread-15:6872] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:56:59,873 [Thread-16:4668] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,172 [Thread-41:3824] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,193 [Thread-42:1444] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,202 [Thread-43:5872] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,267 [Thread-44:5960] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,281 [Thread-45:2388] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,334 [Thread-46:6364] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,349 [Thread-47:6896] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,358 [Thread-48:6136] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,419 [Thread-49:1216] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,430 [Thread-50:1640] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,520 [Thread-51:5804] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,531 [Thread-52:3284] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,541 [Thread-53:5944] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,606 [Thread-54:1232] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,617 [Thread-55:3780] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,702 [Thread-56:5168] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,716 [Thread-57:5972] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,797 [Thread-58:7024] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:01,815 [Thread-59:212] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,052 [Thread-60:6264] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,068 [Thread-61:1252] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,081 [Thread-62:3872] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,093 [Thread-63:4280] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,143 [Thread-64:4028] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,154 [Thread-65:40] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,739 [Thread-66:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,751 [Thread-67:1760] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,760 [Thread-68:4560] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,828 [Thread-69:5180] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,891 [Thread-70:5084] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,901 [Thread-71:6008] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:02,971 [Thread-72:5808] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:03,068 [Thread-73:3432] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:03,216 [Thread-74:4960] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:03,227 [Thread-75:6548] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:03,306 [Thread-76:6848] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:03,350 [Thread-77:6600] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:03,365 [Thread-78:6480] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:03,444 [Thread-79:6476] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:05,602 [Thread-91:3292] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 19:57:15,622 [Thread-92:3016] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'blogdb.django_session' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 393, in login
+    return LoginView.as_view(**defaults)(request)
+  File "F:\python\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\debug.py", line 76, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super(LoginView, self).dispatch(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\generic\edit.py", line 183, in post
+    return self.form_valid(form)
+  File "F:\python\lib\site-packages\django\contrib\auth\views.py", line 117, in form_valid
+    auth_login(self.request, form.get_user())
+  File "F:\python\lib\site-packages\django\contrib\auth\__init__.py", line 135, in login
+    request.session.cycle_key()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\base.py", line 311, in cycle_key
+    self.create()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\db.py", line 50, in create
+    self._session_key = self._get_new_session_key()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\base.py", line 164, in _get_new_session_key
+    if not self.exists(session_key):
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\db.py", line 46, in exists
+    return self.model.objects.filter(session_key=session_key).exists()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 668, in exists
+    return self.query.has_results(using=self.db)
+  File "F:\python\lib\site-packages\django\db\models\sql\query.py", line 517, in has_results
+    return compiler.has_results()
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 845, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 886, in execute_sql
+    raise original_exception
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'blogdb.django_session' doesn't exist")
+2017-05-21 19:57:17,392 [Thread-93:1192] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:12:07,975 [Thread-5:2888] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:12:57,434 [Thread-6:6776] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:12:57,445 [Thread-7:3168] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:12:58,955 [Thread-8:5596] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:12:58,968 [Thread-9:7016] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:12:58,979 [Thread-10:7028] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:00,561 [Thread-11:5040] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:00,571 [Thread-12:4100] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:00,614 [Thread-13:5540] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:00,622 [Thread-14:5112] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:00,655 [Thread-15:6196] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:00,663 [Thread-16:1996] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:01,055 [Thread-21:6080] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:13:20,144 [Thread-22:3432] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'blogdb.django_session' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 393, in login
+    return LoginView.as_view(**defaults)(request)
+  File "F:\python\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\debug.py", line 76, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super(LoginView, self).dispatch(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\generic\edit.py", line 183, in post
+    return self.form_valid(form)
+  File "F:\python\lib\site-packages\django\contrib\auth\views.py", line 117, in form_valid
+    auth_login(self.request, form.get_user())
+  File "F:\python\lib\site-packages\django\contrib\auth\__init__.py", line 135, in login
+    request.session.cycle_key()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\base.py", line 311, in cycle_key
+    self.create()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\db.py", line 50, in create
+    self._session_key = self._get_new_session_key()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\base.py", line 164, in _get_new_session_key
+    if not self.exists(session_key):
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\db.py", line 46, in exists
+    return self.model.objects.filter(session_key=session_key).exists()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 668, in exists
+    return self.query.has_results(using=self.db)
+  File "F:\python\lib\site-packages\django\db\models\sql\query.py", line 517, in has_results
+    return compiler.has_results()
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 845, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 886, in execute_sql
+    raise original_exception
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'blogdb.django_session' doesn't exist")
+2017-05-21 20:13:20,778 [Thread-23:5208] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:39,570 [Thread-4:6844] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-21 20:19:42,898 [Thread-2:4836] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:42,908 [Thread-3:5372] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:42,918 [Thread-5:5040] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,858 [Thread-6:5824] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,874 [Thread-7:6016] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,888 [Thread-8:5852] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,898 [Thread-9:5208] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,931 [Thread-10:7032] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,941 [Thread-11:6252] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,952 [Thread-12:40] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,975 [Thread-13:6080] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:45,983 [Thread-14:6196] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:47,446 [Thread-15:3912] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:47,984 [Thread-16:4028] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:47,994 [Thread-17:68] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,002 [Thread-18:6488] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,061 [Thread-19:6844] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,201 [Thread-20:5336] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,216 [Thread-21:2932] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,280 [Thread-22:6848] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,387 [Thread-23:4836] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,419 [Thread-24:5372] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,477 [Thread-25:5040] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,504 [Thread-26:6660] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,579 [Thread-27:5824] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,593 [Thread-28:6016] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,719 [Thread-29:5852] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,744 [Thread-30:5208] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:48,778 [Thread-31:7032] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:19:51,173 [Thread-35:6196] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:20:00,471 [Thread-36:7000] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'blogdb.django_session' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 393, in login
+    return LoginView.as_view(**defaults)(request)
+  File "F:\python\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\debug.py", line 76, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super(LoginView, self).dispatch(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\generic\edit.py", line 183, in post
+    return self.form_valid(form)
+  File "F:\python\lib\site-packages\django\contrib\auth\views.py", line 117, in form_valid
+    auth_login(self.request, form.get_user())
+  File "F:\python\lib\site-packages\django\contrib\auth\__init__.py", line 135, in login
+    request.session.cycle_key()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\base.py", line 311, in cycle_key
+    self.create()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\db.py", line 50, in create
+    self._session_key = self._get_new_session_key()
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\base.py", line 164, in _get_new_session_key
+    if not self.exists(session_key):
+  File "F:\python\lib\site-packages\django\contrib\sessions\backends\db.py", line 46, in exists
+    return self.model.objects.filter(session_key=session_key).exists()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 668, in exists
+    return self.query.has_results(using=self.db)
+  File "F:\python\lib\site-packages\django\db\models\sql\query.py", line 517, in has_results
+    return compiler.has_results()
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 845, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 886, in execute_sql
+    raise original_exception
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'blogdb.django_session' doesn't exist")
+2017-05-21 20:20:00,977 [Thread-37:2888] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:50,034 [Thread-2:5100] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:50,046 [Thread-3:3168] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:51,298 [Thread-4:6304] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:51,317 [Thread-5:4440] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:51,329 [Thread-6:6836] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:53,212 [Thread-7:3292] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:53,263 [Thread-8:5964] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:53,275 [Thread-9:4544] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:53,301 [Thread-10:5972] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:53,314 [Thread-11:6024] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:58:54,465 [Thread-16:2416] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 20:59:02,251 [Thread-18:788] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:15,415 [Thread-21:1964] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-21 21:00:16,736 [Thread-19:7140] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:16,743 [Thread-20:6660] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:16,762 [Thread-22:6332] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:17,274 [Thread-23:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:17,297 [Thread-24:6332] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:17,316 [Thread-25:1280] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,197 [Thread-26:6660] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,801 [Thread-27:2008] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,820 [Thread-28:6368] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,837 [Thread-29:1964] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,850 [Thread-30:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,864 [Thread-31:6332] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,882 [Thread-32:1280] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,896 [Thread-33:1568] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,910 [Thread-34:3296] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:18,924 [Thread-35:6660] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:19,638 [Thread-36:7140] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:19,648 [Thread-37:6032] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:19,657 [Thread-38:7100] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:19,721 [Thread-39:6684] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:19,874 [Thread-40:4800] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:19,887 [Thread-41:788] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:19,958 [Thread-42:2008] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,038 [Thread-43:6368] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,063 [Thread-44:1964] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,119 [Thread-45:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,196 [Thread-46:6332] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,250 [Thread-47:1280] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,289 [Thread-48:1568] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,430 [Thread-49:3296] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,445 [Thread-50:6660] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:20,526 [Thread-51:7140] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:21,246 [Thread-55:4800] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:00:28,102 [Thread-61:3296] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:17:43,745 [Thread-13:8028] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:17:49,613 [Thread-25:5096] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:18:05,516 [Thread-27:6500] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:19:01,426 [Thread-33:7608] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:06,151 [Thread-40:6788] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:11,749 [Thread-44:7840] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:14,812 [Thread-53:7560] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:17,065 [Thread-54:7604] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:18,543 [Thread-59:5756] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:21,302 [Thread-60:3992] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:26,837 [Thread-62:6808] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:31,994 [Thread-66:4968] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:33,193 [Thread-70:5448] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:36,634 [Thread-74:4776] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:38,310 [Thread-77:4784] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:41,424 [Thread-80:6912] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:45,131 [Thread-83:2140] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:49,961 [Thread-86:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:20:59,827 [Thread-90:40] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:21:03,599 [Thread-93:5620] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:21:07,544 [Thread-96:6852] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:21:12,204 [Thread-98:3208] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:21:14,208 [Thread-101:3284] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:21:16,453 [Thread-103:1760] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:08,551 [Thread-4:6120] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:10,915 [Thread-8:6584] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:13,341 [Thread-11:6556] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:40,354 [Thread-5:7612] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:41,611 [Thread-15:1248] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:43,754 [Thread-18:5396] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:56,440 [Thread-42:4784] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:57,850 [Thread-64:7068] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:59,148 [Thread-86:1040] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:24:59,754 [Thread-108:6068] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:26:17,824 [Thread-23:4444] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:28:37,957 [Thread-26:8132] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:29:10,348 [Thread-29:6664] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:29:42,414 [Thread-21:1232] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:29:45,214 [Thread-39:6116] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:29:53,855 [Thread-45:7756] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:29:56,520 [Thread-48:5388] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:29:58,892 [Thread-49:8040] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:31:10,222 [Thread-4:7228] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-21 21:31:13,932 [Thread-6:196] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:31:17,074 [Thread-9:7428] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:31:20,403 [Thread-12:7900] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:31:32,429 [Thread-15:7840] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:31:36,456 [Thread-17:7208] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'user_id' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1508, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1408, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1448, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 979, in save_model
+    obj.save()
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 806, in save
+    force_update=force_update, update_fields=update_fields)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 836, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 922, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 961, in _do_insert
+    using=using, raw=raw)
+  File "F:\python\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1061, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 1099, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1048, "Column 'user_id' cannot be null")
+2017-05-21 21:31:37,561 [Thread-18:7608] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:31:52,327 [Thread-22:7816] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:32:01,545 [Thread-24:6380] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'user_id' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1508, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1408, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1448, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 979, in save_model
+    obj.save()
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 806, in save
+    force_update=force_update, update_fields=update_fields)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 836, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 922, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 961, in _do_insert
+    using=using, raw=raw)
+  File "F:\python\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1061, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 1099, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1048, "Column 'user_id' cannot be null")
+2017-05-21 21:32:02,449 [Thread-25:7672] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:32:23,934 [Thread-29:7436] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:32:26,123 [Thread-31:4776] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:32:27,461 [Thread-34:7496] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 21:32:30,378 [Thread-38:5220] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:12:05,243 [Thread-4:7432] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-21 22:12:08,290 [Thread-3:6280] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:12:08,440 [Thread-5:7152] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:12:08,607 [Thread-2:5936] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:12:19,388 [Thread-7:8068] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:12:21,822 [Thread-14:8128] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:12:24,412 [Thread-16:1864] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:12:27,120 [Thread-19:160] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:13:09,656 [Thread-2:6424] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:13:18,905 [Thread-6:7928] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:13:20,910 [Thread-16:7704] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:13:24,249 [Thread-19:7576] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:16:23,244 [Thread-43:5160] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-05-21 22:16:51,595 [Thread-47:5512] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-21 22:17:05,079 [Thread-49:7836] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'user_id' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1508, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1408, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1448, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 979, in save_model
+    obj.save()
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 806, in save
+    force_update=force_update, update_fields=update_fields)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 836, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 922, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "F:\python\lib\site-packages\django\db\models\base.py", line 961, in _do_insert
+    using=using, raw=raw)
+  File "F:\python\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1061, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 1099, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql-0.7.11-py3.6.egg\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1048, "Column 'user_id' cannot be null")
+2017-05-21 22:17:05,990 [Thread-50:3168] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:17:56,868 [Thread-2:3308] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:17:57,353 [Thread-3:5288] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:01,223 [Thread-4:6796] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:01,306 [Thread-5:6240] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:01,360 [Thread-6:5260] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:01,613 [Thread-7:4940] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:02,240 [Thread-8:3836] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-22 22:18:02,330 [Thread-9:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:02,357 [Thread-10:5636] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:03,975 [Thread-11:6952] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:04,007 [Thread-12:6252] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:04,074 [Thread-13:4260] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:06,630 [Thread-14:5952] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:06,650 [Thread-15:1876] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:13,556 [Thread-28:6216] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:20,659 [Thread-44:6540] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:18:25,994 [Thread-52:7116] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:01,956 [Thread-56:4940] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:11,207 [Thread-59:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:22,982 [Thread-62:6812] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:30,717 [Thread-65:1284] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:35,924 [Thread-69:4160] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:40,690 [Thread-76:6776] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:42,642 [Thread-79:6260] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:45,116 [Thread-80:6696] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:51,620 [Thread-81:2248] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:19:55,663 [Thread-85:6188] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:00,403 [Thread-88:3844] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:03,210 [Thread-91:6840] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:06,670 [Thread-93:6744] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:09,659 [Thread-96:1584] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:23,367 [Thread-100:3588] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:25,385 [Thread-102:6544] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:28,849 [Thread-105:6336] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:32,101 [Thread-108:7028] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:38,457 [Thread-112:5880] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:40,773 [Thread-116:5556] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:47,570 [Thread-120:7108] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:56,922 [Thread-122:72] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:20:58,760 [Thread-125:6888] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:00,899 [Thread-128:2900] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:08,924 [Thread-131:3844] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:13,553 [Thread-133:3596] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:28,650 [Thread-138:6544] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:35,184 [Thread-164:6304] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:41,060 [Thread-167:5300] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:42,704 [Thread-170:6184] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:43,549 [Thread-173:7084] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:44,104 [Thread-176:5156] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:49,572 [Thread-179:4588] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:21:55,263 [Thread-206:5660] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:05,692 [Thread-213:7152] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:19,879 [Thread-217:6624] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:22,027 [Thread-218:6860] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:23,381 [Thread-219:164] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:25,681 [Thread-220:5500] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:26,974 [Thread-223:6776] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:28,327 [Thread-225:6916] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:29,530 [Thread-228:7108] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:31,523 [Thread-231:6844] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:35,469 [Thread-235:5508] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:38,959 [Thread-237:6692] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:41,814 [Thread-240:2900] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:44,798 [Thread-243:1572] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:22:57,573 [Thread-246:6748] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:23:24,806 [Thread-249:6180] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:23:34,947 [Thread-252:4336] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:23:42,626 [Thread-256:6544] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:23:45,140 [Thread-259:5304] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:24:29,338 [Thread-261:52] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:24:31,342 [Thread-264:5952] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:24:33,171 [Thread-267:6252] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:25:02,811 [Thread-276:2512] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-05-22 22:44:16,619 [Thread-4:6944] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-22 22:44:18,105 [Thread-2:5680] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:18,118 [Thread-3:5572] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:18,134 [Thread-5:6500] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,667 [Thread-6:6964] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,679 [Thread-7:6776] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,689 [Thread-8:7124] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,697 [Thread-9:2248] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,707 [Thread-10:4652] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,717 [Thread-11:1032] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,730 [Thread-12:6252] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,744 [Thread-13:5848] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,755 [Thread-14:6236] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,764 [Thread-15:6900] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:20,776 [Thread-16:6356] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,141 [Thread-17:6668] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,155 [Thread-18:6416] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,176 [Thread-19:6212] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,183 [Thread-20:5632] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,189 [Thread-21:6860] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,197 [Thread-22:1524] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,206 [Thread-23:6976] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,214 [Thread-24:7068] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:21,222 [Thread-25:6812] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:44:22,533 [Thread-41:7120] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:45:10,632 [Thread-11:6004] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-22 22:45:10,635 [Thread-12:6632] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-22 22:45:10,636 [Thread-13:6860] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-22 22:45:11,324 [Thread-27:3620] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:57:27,436 [Thread-4:5652] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-22 22:57:29,022 [Thread-5:7248] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:57:36,155 [Thread-2:2368] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:57:36,163 [Thread-3:2248] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:57:36,176 [Thread-6:7324] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:57:37,197 [Thread-10:7344] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-22 22:57:37,200 [Thread-12:7352] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-22 22:57:37,201 [Thread-11:7348] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-22 22:57:37,544 [Thread-15:7372] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:57:52,334 [Thread-23:7440] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-22 22:57:52,341 [Thread-24:7444] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-22 22:57:52,346 [Thread-26:7452] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-22 22:57:52,795 [Thread-39:7512] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:16,323 [Thread-41:7664] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:19,185 [Thread-44:7680] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:20,627 [Thread-47:7708] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:23,489 [Thread-50:7720] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:24,863 [Thread-53:7732] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:26,251 [Thread-56:7744] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:27,117 [Thread-59:7760] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:28,277 [Thread-62:7772] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:29,320 [Thread-65:7784] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:58:30,615 [Thread-68:7796] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:59:50,498 [Thread-11:7060] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-22 22:59:50,504 [Thread-12:1192] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-22 22:59:50,506 [Thread-13:1452] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-22 22:59:50,772 [Thread-27:7224] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-22 22:59:59,286 [Thread-9:7408] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-22 22:59:59,334 [Thread-10:7524] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-22 22:59:59,354 [Thread-11:7388] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-22 22:59:59,780 [Thread-25:3620] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:11:14,797 [Thread-2:7068] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:11:14,805 [Thread-4:6804] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-23 20:11:14,809 [Thread-3:7088] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:11:14,817 [Thread-5:5380] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:11:16,977 [Thread-6:368] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:11:17,040 [Thread-7:1272] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:11:19,785 [Thread-17:6572] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 20:11:19,809 [Thread-18:5148] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 20:11:19,841 [Thread-19:4532] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 20:11:21,721 [Thread-33:2020] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:13:53,592 [Thread-10:7120] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 20:13:53,600 [Thread-12:6844] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 20:13:53,600 [Thread-13:6988] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 20:13:53,908 [Thread-27:7164] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:15:36,838 [Thread-37:4952] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 20:15:36,842 [Thread-38:5452] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 20:15:36,850 [Thread-39:6672] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 20:15:37,074 [Thread-53:5216] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:17:34,911 [Thread-63:6628] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 20:17:34,923 [Thread-65:5564] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 20:17:34,923 [Thread-64:7044] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 20:17:35,238 [Thread-79:6688] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:17:35,514 [Thread-87:684] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 20:17:35,522 [Thread-88:5372] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 20:17:35,526 [Thread-89:3804] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 20:17:35,710 [Thread-103:7148] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 20:17:36,005 [Thread-111:6564] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 20:17:36,013 [Thread-112:7124] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 20:17:36,021 [Thread-113:6832] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 20:17:36,253 [Thread-127:6808] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:20,724 [Thread-2:2708] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:20,732 [Thread-3:5232] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:23,092 [Thread-4:5332] [django.request:152] [base:get_response] [WARNING]- Not Found: /
+2017-05-23 21:43:26,815 [Thread-10:6104] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:43:26,819 [Thread-9:3232] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:43:26,819 [Thread-8:376] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:43:30,800 [Thread-13:5560] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:40,826 [Thread-14:5560] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:40,982 [Thread-15:5740] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:43,314 [Thread-16:1200] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:43,322 [Thread-17:5952] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:43,722 [Thread-19:6208] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:43:43,722 [Thread-21:6216] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:43:43,726 [Thread-20:6212] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:43:44,082 [Thread-24:6272] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:45,419 [Thread-25:6296] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:45,513 [Thread-26:6300] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:45,606 [Thread-27:6304] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,482 [Thread-28:6340] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,497 [Thread-29:6344] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,513 [Thread-30:6348] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,528 [Thread-31:6352] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,591 [Thread-32:6356] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,747 [Thread-33:6360] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,763 [Thread-34:6364] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,778 [Thread-35:6368] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:46,810 [Thread-36:6372] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:48,041 [Thread-45:6420] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:43:56,922 [Thread-50:6456] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:44:01,321 [Thread-67:6556] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:44:04,094 [Thread-75:6600] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:44:39,073 [Thread-79:6964] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:44:42,570 [Thread-82:6976] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:44:49,272 [Thread-87:7020] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:44:54,278 [Thread-97:7088] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:44:54,282 [Thread-98:7092] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:44:54,286 [Thread-99:7096] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:44:54,542 [Thread-113:7164] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:45:02,870 [Thread-117:5152] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:45:22,824 [Thread-120:1980] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:45:26,041 [Thread-130:6356] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:45:26,057 [Thread-131:6360] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:45:26,065 [Thread-132:6364] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:45:26,249 [Thread-146:6444] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:45:54,880 [Thread-148:6540] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:45:57,727 [Thread-151:6560] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:46:02,269 [Thread-154:6584] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:46:14,733 [Thread-157:6972] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:50:37,773 [Thread-167:6300] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:50:37,785 [Thread-168:6564] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:50:37,813 [Thread-169:7152] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:50:38,128 [Thread-183:7132] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:51:05,110 [Thread-8:6048] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:51:05,122 [Thread-9:7152] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:51:05,146 [Thread-11:6776] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:51:05,358 [Thread-25:3728] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:51:07,273 [Thread-27:6560] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:51:07,293 [Thread-28:6628] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:51:07,309 [Thread-29:1324] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:51:07,456 [Thread-30:7072] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:51:08,958 [Thread-32:7060] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:51:08,978 [Thread-34:6972] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:51:08,982 [Thread-33:6104] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:51:09,084 [Thread-35:6020] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:51:10,826 [Thread-38:7056] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:51:10,830 [Thread-36:1140] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:51:10,834 [Thread-39:7136] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:51:10,934 [Thread-40:7120] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:51:12,285 [Thread-44:7076] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:51:12,289 [Thread-43:6412] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:51:12,301 [Thread-41:6260] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:51:12,444 [Thread-45:6420] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:51:13,583 [Thread-46:6224] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:51:13,595 [Thread-48:6996] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:51:13,595 [Thread-49:5152] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:51:13,726 [Thread-50:6900] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:51:15,126 [Thread-51:2332] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:51:15,130 [Thread-53:6484] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:51:15,134 [Thread-52:6360] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:51:15,345 [Thread-55:6468] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:53:39,064 [Thread-65:7032] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:53:39,093 [Thread-66:64] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:53:39,125 [Thread-67:6540] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:53:39,518 [Thread-81:7128] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:53:55,587 [Thread-94:824] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:53:55,603 [Thread-95:5556] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:53:55,615 [Thread-96:4952] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:53:55,819 [Thread-110:2896] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:57:34,102 [Thread-112:6620] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:57:38,605 [Thread-113:7008] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:57:38,621 [Thread-114:6284] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 21:57:40,847 [Thread-118:6068] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 21:57:40,855 [Thread-119:2036] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 21:57:40,859 [Thread-120:6532] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 21:57:41,015 [Thread-123:5044] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:16,538 [Thread-134:6560] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:01:16,550 [Thread-133:6964] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:01:16,570 [Thread-135:6372] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:01:16,774 [Thread-149:4168] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:17,578 [Thread-157:808] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:01:17,594 [Thread-159:1980] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:01:17,602 [Thread-158:3364] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:01:17,794 [Thread-173:7068] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:18,149 [Thread-181:7008] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:01:18,177 [Thread-182:6384] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:01:18,185 [Thread-183:6408] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:01:18,361 [Thread-197:7132] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:22,477 [Thread-125:6680] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:22,489 [Thread-124:6148] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:24,519 [Thread-199:6980] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:24,531 [Thread-200:6560] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:25,355 [Thread-201:808] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:01:25,875 [Thread-206:6960] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:01:25,879 [Thread-207:6220] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:01:25,883 [Thread-205:2236] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:01:26,331 [Thread-210:7096] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:02:29,653 [Thread-219:7160] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:02:29,685 [Thread-221:712] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:02:29,721 [Thread-223:6412] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:02:29,908 [Thread-236:6556] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:02:30,548 [Thread-244:6748] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:02:30,556 [Thread-245:6148] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:02:30,560 [Thread-246:6736] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:02:30,732 [Thread-260:7156] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:02:31,329 [Thread-268:6356] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:02:31,333 [Thread-269:7148] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:02:31,361 [Thread-270:6600] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:02:31,592 [Thread-284:6396] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:02:31,943 [Thread-292:6416] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:02:31,959 [Thread-293:6364] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:02:31,983 [Thread-294:6804] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:02:32,194 [Thread-308:6408] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:02:32,314 [Thread-315:1324] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:02:32,322 [Thread-317:6264] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:02:32,338 [Thread-318:6972] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:02:32,542 [Thread-332:5092] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:02:38,026 [Thread-339:4204] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:02:38,062 [Thread-341:6560] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:02:38,086 [Thread-342:7008] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:02:38,338 [Thread-356:6632] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:03:00,203 [Thread-4:7156] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:03:00,219 [Thread-6:4204] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:03:00,259 [Thread-9:5160] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:03:00,459 [Thread-19:5188] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:03:14,993 [Thread-28:5636] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:03:15,021 [Thread-30:4156] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:03:15,033 [Thread-31:7096] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:03:15,280 [Thread-45:6428] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:03:27,601 [Thread-53:36] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:03:27,617 [Thread-54:3468] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:03:27,629 [Thread-55:5988] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:03:27,889 [Thread-69:1392] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:26,496 [Thread-70:6388] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:26,521 [Thread-71:6384] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:26,529 [Thread-72:4132] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:28,931 [Thread-73:6452] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:29,001 [Thread-74:7100] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:31,752 [Thread-75:6560] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:31,782 [Thread-76:6048] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:31,802 [Thread-77:1140] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:48,954 [Thread-85:7236] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:34:48,964 [Thread-87:7244] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:34:48,974 [Thread-86:7240] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:34:49,324 [Thread-88:7256] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:34:49,334 [Thread-89:7260] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:34:49,334 [Thread-90:7264] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:34:49,844 [Thread-104:7320] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:49,864 [Thread-105:7324] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:34:49,884 [Thread-106:7328] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-23 22:37:48,051 [Thread-116:7848] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:37:48,057 [Thread-117:7852] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:37:48,061 [Thread-118:7856] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:37:48,226 [Thread-120:7872] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:37:48,232 [Thread-121:7876] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:37:48,234 [Thread-122:7880] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:38:19,476 [Thread-140:8012] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:38:19,479 [Thread-141:8016] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:38:19,483 [Thread-142:8020] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:38:19,579 [Thread-143:8024] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:38:19,581 [Thread-144:8028] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:38:19,583 [Thread-145:8032] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:40:16,108 [Thread-155:4508] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a2.jpg
+2017-05-23 22:40:16,128 [Thread-157:6864] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a4.jpg
+2017-05-23 22:40:16,140 [Thread-156:7060] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/images/a3.jpg
+2017-05-23 22:40:16,304 [Thread-171:7392] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
