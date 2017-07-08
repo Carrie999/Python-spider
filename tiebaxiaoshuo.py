@@ -59,6 +59,6 @@ def main(base_url, deep):
         OutFile(content)
     print('所有的信息都已经保存完毕！')
 base_url = 'https://tieba.baidu.com/f?ie=utf-8&kw=%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4&fr=search'
-deep = 2
+deep = 3
 if __name__ == '__main__':
     main(base_url, deep)
