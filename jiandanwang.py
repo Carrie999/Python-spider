@@ -5,14 +5,11 @@ import random
 def url_open(url):
     req = urllib.request.Request(url)
     req.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.71 Safari/537.36')
-
     proxies = ['110.73.30.246:6666','121.31.199.91:6675','124.132.83.173:6675']
     proxy =random.choice(proxies)
-
     proxy_support=urllib.request.ProxyHandler({'http':proxy})
     opener =urllib.request.build_opener(proxy_support)
     urllib.request.install_opener(opener)
-    
     response = urllib.request.urlopen(url)
     html = response.read()
     return html
