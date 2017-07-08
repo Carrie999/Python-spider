@@ -1,6 +1,3 @@
-import requests
-import time
-from bs4 import BeautifulSoup
 '''
 抓取百度贴吧---言情小说的基本内容
 爬虫线路： requests - bs4
@@ -46,7 +43,6 @@ def OutFile(dict):
         i+=1
         for cc in dict:
             f.write( '1： {} \n'.format(cc['title']))
-            print(333333)
         print('当前页面爬取完成')
 def main(base_url, deep):
     url_list = []
@@ -58,7 +54,7 @@ def main(base_url, deep):
     #循环写入所有的数据
     for url in url_list:
         content = get_content(url)
-        print(2222)
+        #print(2222)
         print(content)
         OutFile(content)
     print('所有的信息都已经保存完毕！')
