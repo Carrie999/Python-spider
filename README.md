@@ -5,7 +5,7 @@
 4）scrapy的学习与分布式redis的研究<br> 
 5）把爬取的数据存入数据库mysql<br> 
 6）以及对爬取后的数据可视化分析<br> 
-7）django搭建后台<br> 
+7）django搭建博客后台<br> 
 <br> 
 
 
