@@ -1,0 +1,600 @@
+﻿{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412895734.html']",
+ 'company_name': ['舞水科技'],
+ 'message': ['北京', '1-3年', '不限'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['7K-9K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413035260.html']",
+ 'company_name': ['网智天元'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫开发工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412917917.html']",
+ 'company_name': ['链家网'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java研发工程师（爬虫） '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412696783.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412903956.html']",
+ 'company_name': ['十三科技'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['爬虫工程师 '],
+ 'salary': ['10K-20K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1413011615.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['Java视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412855037.html']",
+ 'company_name': ['奇思互动'],
+ 'message': ['北京', '3-5年', '本科'],
+ 'name': ['Python爬虫开发工程师 '],
+ 'salary': ['7K-14K']}
+{'company_href': "['/job_detail/1413023784.html']",
+ 'company_name': ['比特尔'],
+ 'message': ['北京', '5-10年', '本科'],
+ 'name': ['高级研发经理（爬虫） '],
+ 'salary': ['25K-50K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
+{'company_href': "['/job_detail/1413006639.html']",
+ 'company_name': ['看了吗视频'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1412882578.html']",
+ 'company_name': ['金山集团'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['视频爬虫工程师 '],
+ 'salary': ['15K-30K']}
+{'company_href': "['/job_detail/1413026172.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1413022243.html']",
+ 'company_name': ['阿里集团'],
+ 'message': ['北京', '3-5年', '大专'],
+ 'name': ['爬虫工程师（淘票票） '],
+ 'salary': ['20K-40K']}
+{'company_href': "['/job_detail/1412694061.html']",
+ 'company_name': ['京东商城'],
+ 'message': ['北京', '1年以内', '本科'],
+ 'name': ['网络爬虫工程师 '],
+ 'salary': ['15K-25K']}
+{'company_href': "['/job_detail/1412671752.html']",
+ 'company_name': ['滴滴出行'],
+ 'message': ['北京', '1-3年', '本科'],
+ 'name': ['数据爬虫工程师 '],
+ 'salary': ['25K-40K']}
+{'company_href': "['/job_detail/1412682313.html']",
+ 'company_name': ['创享影业'],
+ 'message': ['北京', '1-3年', '大专'],
+ 'name': ['Python爬虫工程师 '],
+ 'salary': ['8K-12K']}
